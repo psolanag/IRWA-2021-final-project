@@ -1,0 +1,18 @@
+FINAL PROJECT
+Part 1 - TEXT PROCESSING
+
+Raúl Rivas Miraz - 204975
+Eric Sáez Pino - 204594
+Pau Solana Gimeno - 205598
+
+Code running
+
+To run the code u have to introduce the following command into the terminal:
+python3 script infile outfile
+
+* script: path to main.py script
+* infile: path to the tweets txt file
+* outfile: path to file where u want to store the modified tweets. If file doesnt exist it will create a new one
+  in the path assigned and with the name assigned.
+
+
