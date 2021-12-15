@@ -4,14 +4,11 @@ Eric Sáez
 Pau Solana
 Raúl Rivas
 
-Part 2- indexing and evaluation
+Part 4- User Interface and web Analytics
 
-The code should be run on the same folder than the  txt document with the tweets.
-The cells should be run in order.
-Theres 1 cell that requires the user to input some query to continue running the code.
-Queries proposed:
- + covid19 health
- + covid19 vaccin
- + countri global pandem
- + covid19 death risk
- + health vaccin
+The code is inside the folder: "IRWA-2021-final-project-part-4"
+
+To run the code go to the folder where web_app.py is and type the following command on the terminal:
+  python .\web_app.py
+
+Thanks.
